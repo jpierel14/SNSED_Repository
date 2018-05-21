@@ -1,0 +1,7 @@
+python snsedextend.py -i  LOWZ-2011fu.SED,LOWZ-2008ax.SED,LOWZ-1993J.SED,LOWZ-2011dh.SED \
+--vh 1.0  --vk 1.0 \
+-v trans_V.dat \
+-h trans_H.dat \
+-k trans_K.dat
+
+mv error.log err_NIR-extend_IIb.log

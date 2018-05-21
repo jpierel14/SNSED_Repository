@@ -1,0 +1,17 @@
+echo ' ----------- Ib ---------- '
+./NIR-extend_Ib
+
+echo ' ----------- Ic ---------- '
+./NIR-extend_Ic
+
+echo ' ----------- IIb ---------- '
+./NIR-extend_IIb
+
+echo ' ----------- IIL ---------- '
+./NIR-extend_IIL
+
+echo ' ----------- IIN ---------- '
+./NIR-extend_IIN
+
+echo ' ----------- IIP ---------- '
+./NIR-extend_IIP

@@ -1,0 +1,3 @@
+cp $SNDATA_ROOT/filters/WFIRST/H17/WFC3_UVIS_F555W.dat  trans_V.dat
+cp $SNDATA_ROOT/filters/WFIRST/H17/WFIRST_H158.dat      trans_H.dat
+cp SNDATA_ROOT/filters/VIDEO/Bessell_K.dat              trans_K.dat
