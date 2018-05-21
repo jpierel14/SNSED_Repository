@@ -1,0 +1,7 @@
+python snsedextend.py -i SNLS-04D4jv.SED,SNLS-04D1la.SED,CSP-2004fe.SED,CSP-2004gq.SED,SDSS-004012.SED,SDSS-013195.SED,SDSS-014475.SED,SDSS-015475.SED,SDSS-017548.SED  \
+--vh 1.5  --vk 1.5 \
+-v trans_V.dat \
+-h trans_H.dat \
+-k trans_K.dat
+
+mv error.log err_NIR-extend_Ic.log

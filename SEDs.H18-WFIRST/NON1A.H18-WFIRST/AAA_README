@@ -1,0 +1,9 @@
+NIR adjustments based on 
+  http://adsabs.harvard.edu/abs/2014ApJS..213...19B
+
+NIR-extend_Ib:--vh 1.0  --vk 1.0 \
+NIR-extend_Ic:--vh 1.5  --vk 1.5 \
+NIR-extend_IIb:--vh 1.0  --vk 1.0 \
+NIR-extend_IIL:--vh 1.0  --vk 1.0 \
+NIR-extend_IIN:--vh 1.0  --vk 1.0 \
+NIR-extend_IIP:--vh 1.0  --vk 1.0 \

@@ -1,0 +1,6 @@
+python snsedextend.py -i CSP-2004gv.SED,CSP-2006ep.SED,CSP-2007Y.SED,SDSS-000020.SED,SDSS-002744.SED,SDSS-014492.SED,SDSS-019323.SED \
+--vh 1.0  --vk 1.0 \
+-v trans_V.dat \
+-h trans_H.dat \
+-k trans_K.dat
+mv error.log err_NIR-extend_Ib.log

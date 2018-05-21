@@ -1,0 +1,7 @@
+python snsedextend.py -i Nugent+Scolnic_IIL.SED \
+--vh 1.0  --vk 1.0 \
+-v trans_V.dat \
+-h trans_H.dat \
+-k trans_K.dat
+
+mv error.log err_NIR-extend_IIL.log
