@@ -16,4 +16,8 @@ Note that an earlier but very similar version of the template CCSN SEDs and SALT
 In the [SNANA](http://snana.uchicago.edu/) SNDATA_ROOT installation, these models are labeled as NON1A.H17-WFIRST and SALT2.H17-WFIRST. 
 
 ## Figures
-Sub-directories for each CC SN sub-type have .pdf files showing the extrapolated SED, at peak brightness.  The Type_Ia sub-directory contains .pdf images showing the extrapolation of all the SALT2 model components. 
+Sub-directories for each CC SN sub-type have .pdf files showing the extrapolated SED, at peak brightness.  The Type_Ia sub-directory contains .pdf images showing the extrapolation of all the SALT2 model components.  Examples linked below. 
+
+![Extrapolated SED of CSP-2006ep (Type Ib)](Figures/TypeIb/CSP-2006ep.pdf)
+
+![SALT2 M0 extrapolation to IR at peak](Figures/TypeIa/SALT2ir_template0_peak.pdf)
